@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Offerwall</string>
+    <string name="network_error">Во время загрузки информации произошла сетевая ошибка. Пожалуйста нажмите на кнопку \'Обновить\'. Если ошибка не пропадает, попробуйте позже.</string>
+    <string name="server_not_response">Сервер не отвечает. Пожалуйста, попробуйте позже.</string>
+    <string name="no_internet">Нет доступа к Интернету</string>
+    <string name="refresh">Повторить попытку</string>
+    <string name="network_request">Запрос к серверу</string>
+</resources>
